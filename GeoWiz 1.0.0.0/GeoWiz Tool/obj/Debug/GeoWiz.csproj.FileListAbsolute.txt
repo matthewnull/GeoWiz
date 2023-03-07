@@ -1,0 +1,15 @@
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\GeoWiz\bin\Debug\GeoWiz.exe.config
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\GeoWiz\bin\Debug\GeoWiz.exe
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\GeoWiz\bin\Debug\GeoWiz.pdb
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\GeoWiz\obj\Debug\GeoWiz.csproj.AssemblyReference.cache
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\GeoWiz\obj\Debug\GeoWiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\GeoWiz\obj\Debug\GeoWiz.Form1.resources
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\GeoWiz\obj\Debug\GeoWiz.Properties.Resources.resources
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\GeoWiz\obj\Debug\GeoWiz.csproj.GenerateResource.cache
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\GeoWiz\obj\Debug\GeoWiz.csproj.CoreCompileInputs.cache
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\GeoWiz\obj\Debug\GeoWiz.exe
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\GeoWiz\obj\Debug\GeoWiz.pdb
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\GeoWiz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\GeoWiz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\GeoWiz\obj\Debug\GeoWiz.exe.licenses
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\GeoWiz\obj\Debug\GeoWiz.csproj.CopyComplete
